@@ -41,4 +41,5 @@ ALTER TABLE LEGO_SETS ADD PRIMARY KEY (SET_NUM);
 -- Add foreign keys to other tables
 This segment shows how to define primary keys and foreign keys in the tables to ensure data integrity and establish relationships between them.
 
+![Lego Schema](https://github.com/AshaDaniels/SQL-Challenges/blob/main/Lego%20Project/Lego%20Schema.png?raw=true)
 
